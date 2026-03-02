@@ -1,0 +1,22 @@
+body{
+background:black;
+color:white;
+font-family:sans-serif;
+text-align:center;
+}
+
+.card{
+background:#111;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+
+button{
+background:white;
+color:black;
+border:none;
+padding:10px 20px;
+border-radius:8px;
+cursor:pointer;
+}
